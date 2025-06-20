@@ -105,4 +105,5 @@ configuration:
          - OhMyGuus-Bot
          - podman-desktop-bot
          - liurunliang-bot
+         - Copilot
       autoSignMsftEmployee: true
